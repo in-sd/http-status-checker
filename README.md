@@ -1,4 +1,3 @@
-Author: suraj dubey
 
 http-status-checker is use to find http status code of domain
 
